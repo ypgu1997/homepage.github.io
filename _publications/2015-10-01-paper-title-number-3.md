@@ -1,6 +1,6 @@
 ---
 title: "One-DoF Robotic Design of Overconstrained Limbs with Energy-Efficient, Self-Collision-Free Motion"
-collection: publications
+#collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '**<u>Yuping Gu</u>**, Bangchao Huang, Haoran Sun, Ronghan Xu, Jiayi Yin, Fang Wan, Jia Pan, and Chaoyang Song.<br />(Under Review)'
 #date: 2015-10-01
