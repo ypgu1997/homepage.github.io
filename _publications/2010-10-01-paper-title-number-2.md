@@ -2,7 +2,7 @@
 title: "Computational Design towards Energy Efficient Optimization in Overconstrained Robotic Limbs"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Yuping Gu, Ziqian Wang, Shihao Feng, Haoran Sun, Haibo Lu, Jia Pan, Fang Wan, Chaoyang Song.'
+excerpt: '**<u>Yuping Gu</u>**, Ziqian Wang, Shihao Feng, Haoran Sun, Haibo Lu, Jia Pan, Fang Wan, Chaoyang Song.'
 date: 2023-10-01
 venue: 'Journal of Computational Design and Engineering'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
