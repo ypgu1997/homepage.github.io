@@ -2,7 +2,7 @@
 title: "Overconstrained Coaxial Design of Robotic Legs with Omni-directional Locomotion"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '**<u>Yuping Gu</u>**, Shihao Feng, Yuqin Guo, Fang Wan, Jian S. Dai, Jia Pan, Chaoyang Song.<br />*Mechanism and Machine Theory*Volume 176, October 2022'
+excerpt: '**<u>Yuping Gu</u>**, Shihao Feng, Yuqin Guo, Fang Wan, Jian S. Dai, Jia Pan, Chaoyang Song.<br />*Mechanism and Machine Theory*, Volume 176, October 2022'
 date: 2022-10-01
 venue: 'Mechanism and Machine Theory'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
