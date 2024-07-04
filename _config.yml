@@ -21,7 +21,7 @@ repository               : "https://ypgu1997.github.io/homepage.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_photo.jpg"
+  avatar           : "personal_photo_s.jpg"
   name             : "Yuping Gu"
   pronouns         : # example: "she/her"  
   bio              : "Robotics, Embodied Intelligence, Computational Design"
