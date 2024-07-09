@@ -5,8 +5,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '**<u>Yuping Gu</u>**, Ziqian Wang, Shihao Feng, Haoran Sun, Haibo Lu, Jia Pan, Fang Wan, Chaoyang Song.<br />*Journal of Computational Design and Engineering*, Volume 10, Issue 5, October 2023<br />**Selected as the Editor’s Choice.**'
 date: 2023-10-01
 venue: 'Journal of Computational Design and Engineering'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://ypgu1997.github.io/homepage.github.io/files/Computational_design_towards_energy_efficient_optimization_in_overconstrained_robotic_limbs.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
