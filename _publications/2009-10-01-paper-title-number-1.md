@@ -6,7 +6,7 @@ excerpt: '**<u>Yuping Gu</u>**, Shihao Feng, Yuqin Guo, Fang Wan, Jian S. Dai, J
 date: 2022-10-01
 venue: 'Mechanism and Machine Theory'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/ypgu1997/homepage.github.io/tree/master/files/Overconstrained coaxial design of robotic legs with omni-directional locomotion.pdf'
 #citation: 'Gu, Y., Feng, S., Guo, Y., Wan, F., Dai, J. S., Pan, J., & Song, C. (2022). Overconstrained coaxial design of robotic legs with omni-directional locomotion. Mechanism and Machine Theory, 176, 105018.'
 ---
 
